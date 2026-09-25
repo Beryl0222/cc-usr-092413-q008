@@ -7,6 +7,7 @@ venv/
 dist/
 build/
 coverage/
+*.sqlite3
 __pycache__/
 *.py[cod]
 .DS_Store
